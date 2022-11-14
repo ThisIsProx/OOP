@@ -1,0 +1,30 @@
+Order ID: 1
+Your full name: Bob boba
+Your passport ID: 12215125
+Trip information
+Country: Cyprus
+Hotel: Crowne Plaza
+Meal type: HcAi
+Total price: 13500
+Number days in trip: 14
+------------------------------
+Order ID: 1
+Your full name: 1 2
+Your passport ID: 32
+Trip information
+Country: 
+Hotel: 
+Meal type: 
+Total price: 0
+Number days in trip: 0
+------------------------------
+Order ID: 1
+Your full name: 1 2
+Your passport ID: 212
+Trip information
+Country: Cyprus
+Hotel: Hotel Elite
+Meal type: Ai
+Total price: 10500
+Number days in trip: 10
+------------------------------
